@@ -1,0 +1,760 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "*First name of child or person you're registering this card for" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*Nombre del niño o de la persona para quien está registrando esta tarjeta"
+          }
+        }
+      }
+    },
+    "*Your last name will be used for registering child cards" : {
+
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        }
+      }
+    },
+    "%@%%" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%"
+          }
+        }
+      }
+    },
+    "%@ºF" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ºF"
+          }
+        }
+      }
+    },
+    "0" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "1" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
+        }
+      }
+    },
+    "2" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
+        }
+      }
+    },
+    "3" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
+        }
+      }
+    },
+    "Account" : {
+
+    },
+    "Account Settings" : {
+
+    },
+    "Agree" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptar"
+          }
+        }
+      }
+    },
+    "Apple Weather Kit" : {
+
+    },
+    "Are you sure you want to log out? This will delete all data." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Está seguro de que desea cerrar sesión? Esto eliminará todos los datos."
+          }
+        }
+      }
+    },
+    "Bingo Card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarjeta de bingo"
+          }
+        }
+      }
+    },
+    "Bingo card for: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarjeta de bingo para: %@"
+          }
+        }
+      }
+    },
+    "Built on the moon" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Construido en la luna"
+          }
+        }
+      }
+    },
+    "Button Disabled" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Botón desactivado"
+          }
+        }
+      }
+    },
+    "Button to refresh card" : {
+
+    },
+    "Button to refresh main card" : {
+
+    },
+    "Button to share child card" : {
+
+    },
+    "Button to share main card" : {
+
+    },
+    "Cancel" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "Cards" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarjetas"
+          }
+        }
+      }
+    },
+    "Child card" : {
+
+    },
+    "Child name" : {
+
+    },
+    "Cloud Cover" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cloud Cover"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cobertura de nubes"
+          }
+        }
+      }
+    },
+    "Condition" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condición"
+          }
+        }
+      }
+    },
+    "Continue" : {
+
+    },
+    "Delete" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar"
+          }
+        }
+      }
+    },
+    "Delete Account" : {
+
+    },
+    "Delete Child Card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar tarjeta infantil"
+          }
+        }
+      }
+    },
+    "Dismiss the name form" : {
+
+    },
+    "Dismiss the register card form" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descartar el formulario de tarjeta de registro"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hecho"
+          }
+        }
+      }
+    },
+    "DWBingo" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DWBingo"
+          }
+        }
+      }
+    },
+    "Edit Name" : {
+
+    },
+    "Edit your name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edita tu nombre"
+          }
+        }
+      }
+    },
+    "Enter the first name of the child or person you're registering this card for" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingrese el nombre del niño o la persona para quien está registrando esta tarjeta"
+          }
+        }
+      }
+    },
+    "Feels Like" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se siente como"
+          }
+        }
+      }
+    },
+    "First Name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre de pila"
+          }
+        }
+      }
+    },
+    "Form for first name" : {
+
+    },
+    "Form for last name" : {
+
+    },
+    "Get a new card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtener una nueva tarjeta"
+          }
+        }
+      }
+    },
+    "Humidity" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humedad"
+          }
+        }
+      }
+    },
+    "Info" : {
+
+    },
+    "Is Daylight" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "es la luz del día"
+          }
+        }
+      }
+    },
+    "Last Name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apellido"
+          }
+        }
+      }
+    },
+    "Legal" : {
+
+    },
+    "Log Out" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cierra sesión"
+          }
+        }
+      }
+    },
+    "Long press on the weather icon to view weather in LBV" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantenga presionado el ícono del clima para ver el clima en LBV"
+          }
+        }
+      }
+    },
+    "Long press on your name to edit it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alarga la pulsación de tu nombre para editarlo."
+          }
+        }
+      }
+    },
+    "Looks like we missed ya" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parece que te echamos de menos"
+          }
+        }
+      }
+    },
+    "Main card" : {
+
+    },
+    "Name" : {
+
+    },
+    "No" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No"
+          }
+        }
+      }
+    },
+    "No Internet Connection" : {
+
+    },
+    "OK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DE ACUERDO"
+          }
+        }
+      }
+    },
+    "Please attempt to have a different card than others in your group." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, intente tener una tarjeta diferente a la de otros en su grupo"
+          }
+        }
+      }
+    },
+    "Please check your connection and try again." : {
+
+    },
+    "Privacy" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacidad"
+          }
+        }
+      }
+    },
+    "Refresh Card Resets" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar restablecimientos de tarjetas"
+          }
+        }
+      }
+    },
+    "Register a child" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Registrar a un niño"
+          }
+        }
+      }
+    },
+    "Register Card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarjeta de registro"
+          }
+        }
+      }
+    },
+    "Reset" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reiniciar"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
+          }
+        }
+      }
+    },
+    "Share" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartir"
+          }
+        }
+      }
+    },
+    "Sign In With Apple button" : {
+
+    },
+    "Tap the child icon to register a bingo card for your child" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca el icono de niño para registrar una tarjeta de bingo para tu hijo"
+          }
+        }
+      }
+    },
+    "Temperature" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temperatura"
+          }
+        }
+      }
+    },
+    "This will delete all data." : {
+
+    },
+    "This will reset the number of allowed card resets." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esto restablecerá el número de reinicios de tarjetas permitidos"
+          }
+        }
+      }
+    },
+    "Tip for child card creation" : {
+
+    },
+    "Tip for editing name" : {
+
+    },
+    "To continue you'll need to read and agree to the terms below" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para continuar, tendrás que leer y aceptar los siguientes términos."
+          }
+        }
+      }
+    },
+    "Try Another Way" : {
+
+    },
+    "Try to have a unique card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intenta tener una tarjeta única."
+          }
+        }
+      }
+    },
+    "User" : {
+
+    },
+    "User Settings" : {
+
+    },
+    "v1.0.3" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "v1.0.3"
+          }
+        }
+      }
+    },
+    "v1.0.4" : {
+
+    },
+    "View the weather" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver el clima"
+          }
+        }
+      }
+    },
+    "We need your first and last name for the app to run properly." : {
+
+    },
+    "We'll need this info for the app to run properly" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Necesitaremos esta información para que la aplicación funcione correctamente"
+          }
+        }
+      }
+    },
+    "Weather" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiempo"
+          }
+        }
+      }
+    },
+    "Welcome sign" : {
+
+    },
+    "Welcome to DWBingo" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido a DWBingo"
+          }
+        }
+      }
+    },
+    "Yes" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si"
+          }
+        }
+      }
+    },
+    "You are permitted to have one personal bingo card and one minor card." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se le permite tener una tarjeta de bingo personal y una tarjeta menor"
+          }
+        }
+      }
+    },
+    "You are permitted to reset your or your child's card five times. After five times, the button will disable. You can reset the limit on settings once." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se le permite restablecer su tarjeta o la de su hijo cinco veces. Después de cinco veces, el botón se desactivará. Puede restablecer el límite de configuración una vez."
+          }
+        }
+      }
+    },
+    "You can get a new card up to 5 times before 11:59PM Feb 17" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puedes obtener una nueva tarjeta hasta cinco veces antes de las 11:59 p. m. del 17 de febrero"
+          }
+        }
+      }
+    },
+    "You may only have one card" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo puedes tener una tarjeta"
+          }
+        }
+      }
+    },
+    "You may only reset your card five times" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sólo puedes restablecer tu tarjeta cinco veces"
+          }
+        }
+      }
+    },
+    "You've reached the maximum number of resets" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has alcanzado el número máximo de reinicios."
+          }
+        }
+      }
+    },
+    "Your privacy matters to us. All data is stored on the device and is not linked to you." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu privacidad nos importa. Todos los datos se almacenan en el dispositivo y no están vinculados a usted."
+          }
+        }
+      }
+    },
+    " Weather •" : {
+
+    }
+  },
+  "version" : "1.0"
+}
